@@ -1,0 +1,27 @@
+[  
+   {  
+      "path":"order",
+      "symbol":"\"IBM\"",
+      "shares":"10",
+      "side":"\"BUY\"",
+      "ordertype":"\"MARKET\"",
+      "limit":"null"
+   },
+      {  
+      "path":"order",
+      "symbol":"\"AAPL\"",
+      "shares":"20",
+      "side":"\"SELL\"",
+      "ordertype":"\"LIMIT\"",
+       "limit":"165"
+   },
+      {  
+      "path":"order",
+      "symbol":"\"GOOGL\"",
+      "shares":"30",
+      "side":"\"BUY\"",
+      "ordertype":"\"MARKET\"",
+      "limit":"null"
+   }
+   
+]
